@@ -13,7 +13,7 @@ const DevelopmentsSchema = new Schema({
     required: true,
   },
   datetime: {
-    type: Number,
+    type: String,
     required: true,
   },
   duration: {
